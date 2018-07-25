@@ -1,0 +1,7 @@
+.idea/
+target/
+data*
+*.iml
+*.jar
+*tmp*
+*PlayGround.java
